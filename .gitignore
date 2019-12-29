@@ -152,4 +152,5 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
-!/jupyter/.ipynb_checkpoints/
+
+jupyter/.ipynb_checkpoints/
